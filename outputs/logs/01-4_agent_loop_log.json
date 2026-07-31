@@ -164,11 +164,11 @@
     "steps": [
       {
         "action": "calculate",
-        "action_input": "128 / 4"
+        "action_input": "128/4"
       },
       {
         "action": "calculate",
-        "action_input": "32.0 + 17"
+        "action_input": "32.0+17"
       },
       {
         "action": "finish",
@@ -179,7 +179,7 @@
       {
         "action": {
           "action": "calculate",
-          "action_input": "128 / 4"
+          "action_input": "128/4"
         },
         "result": {
           "status": "ok",
@@ -189,7 +189,7 @@
       {
         "action": {
           "action": "calculate",
-          "action_input": "32.0 + 17"
+          "action_input": "32.0+17"
         },
         "result": {
           "status": "ok",

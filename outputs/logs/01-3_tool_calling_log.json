@@ -7,7 +7,7 @@
         "args": {
           "expression": "25 + 17"
         },
-        "id": "call_S9jv4pnsuUw9Z6bBJZMvEeGQ",
+        "id": "call_6IZLebkDsxBcul2kxKiVJdmz",
         "type": "tool_call"
       }
     ],
@@ -21,7 +21,7 @@
         "output": 42
       }
     ],
-    "final_answer": "25와 17을 더한 값은 42입니다."
+    "final_answer": "25 + 17 = 42"
   },
   "requests_observed": [
     "128을 4로 나눠줘.",
